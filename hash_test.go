@@ -5,5 +5,5 @@ import (
 )
 
 func TestGenerateHashFromText(t *testing.T) {
-	return
+	
 }
