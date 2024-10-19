@@ -21,4 +21,7 @@ Compare hash and plain text
 err := hash.CompareHashAndText("hash", "text")
 ```
 
+#### License
+MIT
+
 
