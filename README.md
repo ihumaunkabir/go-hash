@@ -1,3 +1,6 @@
+![pipeline](https://github.com/ihumaunkabir/go-hash/actions/workflows/go.yml/badge.svg)
+
+
 ## go-hash
 A golang module to generate/compare hash from/with text.
 
